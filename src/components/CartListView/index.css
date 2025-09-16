@@ -1,0 +1,10 @@
+.cart-list {
+  padding-left: 0px;
+}
+.removeall {
+  text-align: right;
+  color: #0b69ff;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}

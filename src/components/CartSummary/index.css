@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.order-lable {
+  font-size: 20px;
+  font-weight: normal;
+  color: #616e7c;
+}
+.cart-summary-bg{
+    width: 25vw;
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;   
+    margin-left: auto; 
+}
